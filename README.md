@@ -7,4 +7,6 @@ A ideia básica do counting sort é determinar, para cada entrada x, o número d
 Counting-Sort trabalha como uma contadora de ocorrências dentro de um programa, especificamente dentro de um vetor. Quando determinado vetor tem números repetidos, números únicos e números que não existem um outro vetor indica a quantidade de ocorrências.
 Esta implementação tem a desvantagem de precisar de vectores auxiliares. O Counting Sort ordena exclusivamente números inteiros pelo fato de seus valores servirem como índices no vetor de contagem.
 
-[Fonte: Wikipedia](https://pt.wikipedia.org/wiki/Counting_sort)
+### Fontes:
+[Wikipedia](https://pt.wikipedia.org/wiki/Counting_sort)
+[GeeksForGeeks](https://www.geeksforgeeks.org/counting-sort/)
