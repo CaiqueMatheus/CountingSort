@@ -8,5 +8,5 @@ Counting-Sort trabalha como uma contadora de ocorrências dentro de um programa,
 Esta implementação tem a desvantagem de precisar de vectores auxiliares. O Counting Sort ordena exclusivamente números inteiros pelo fato de seus valores servirem como índices no vetor de contagem.
 
 ### Fontes:
-[Wikipedia](https://pt.wikipedia.org/wiki/Counting_sort)
+[Wikipedia](https://pt.wikipedia.org/wiki/Counting_sort) |
 [GeeksForGeeks](https://www.geeksforgeeks.org/counting-sort/)
